@@ -39,6 +39,11 @@ body {
   .kbd-navigation .square:focus {
     background: #ddd;
   }
+
+  .move-list-item-selected{
+    float: left;
+    font-weight: bold;
+  }
   
   .game {
     display: flex;
@@ -48,4 +53,6 @@ body {
   .game-info {
     margin-left: 20px;
   }
-  
+  .square.highlight {
+    background: #459EDC
+  }
