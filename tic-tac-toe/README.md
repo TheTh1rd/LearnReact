@@ -2,14 +2,22 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 For this project I followed the reactjs beginner tutorial founf here: https://reactjs.org/tutorial/tutorial.html.
 
+## setup
+
+
+From the project directory install the modules with:
+
+```bash
+npm install
+```
+
 ## Usage
 
-In the project directory, you can run:
+To run the app
 
-### `npm install`
-
-And then
-### `npm start`
+```bash
+npm start
+```
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
