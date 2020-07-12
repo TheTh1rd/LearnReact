@@ -1,6 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Tic Tac Toe
 
-For this project I followed the reactjs beginner tutorial founf here: https://reactjs.org/tutorial/tutorial.html.
+For this project I followed and expanded on the reactjs beginner tutorial found here: https://reactjs.org/tutorial/tutorial.html.
 
 ## setup
 
